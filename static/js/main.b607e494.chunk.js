@@ -659,10 +659,10 @@
                                             })]
                                         }), Object(N.jsxs)("h2", {
                                             className: "mint-live text-shadow",
-                                            children: ["ENDS IN ", Object(N.jsx)("span", {
+                                            children: ["ENDS ", Object(N.jsx)("span", {
                                                 className: "text-primary",
                                                 id: "demo",
-                                                children: ""
+                                                children: "FEB 16"
                                             })]
                                         }), Object(N.jsxs)("p", {
                                             className: "priceSale mt-3",
